@@ -21,3 +21,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=keremcankirpar&show_icons=true&locale=en&layout=compact" alt="keremcankirpar" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=keremcankirpar&show_icons=true&locale=en" alt="keremcankirpar" /></p>
+
+
+![snake gif](https://github.com/KeremCanKırpar/KeremCanKirpar/blob/output/github-contribution-grid-snake.gif)
