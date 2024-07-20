@@ -23,4 +23,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=keremcankirpar&show_icons=true&locale=en" alt="keremcankirpar" /></p>
 
 
-![snake gif](https://github.com/KeremCanKırpar/KeremCanKirpar/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/KeremCanKirpar/KeremCanKirpar/blob/output/github-contribution-grid-snake.gif)
